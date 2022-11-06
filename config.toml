@@ -222,8 +222,8 @@ enable = false
     extended = true
     min = "0.75.0"
   [[module.imports]]
-    path = "../../docsy""
+    path = "../../docsy"
     disable = false
   [[module.imports]]
-    path = "../../docsy""
+    path = "../../docsy"
     disable = false    
